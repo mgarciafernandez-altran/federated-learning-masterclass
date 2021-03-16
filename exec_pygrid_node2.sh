@@ -1,0 +1,1 @@
+docker run -d --env NODE_ID=worker-2 --env PORT=7081 --env DATABASE_URL=sqlite:///databasenode.db --network="host" openmined/grid-node:production

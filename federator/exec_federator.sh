@@ -1,0 +1,1 @@
+docker run federator:v1.0

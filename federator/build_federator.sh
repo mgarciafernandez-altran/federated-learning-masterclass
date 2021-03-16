@@ -1,0 +1,1 @@
+docker build . --tag=federator:v1.0

@@ -1,0 +1,1 @@
+docker build . --tag=worker-2:v1.0
